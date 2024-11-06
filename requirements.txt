@@ -1,3 +1,6 @@
 sys
 requests
 Pillow
+transformers
+triton
+torch
