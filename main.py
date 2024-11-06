@@ -1,3 +1,5 @@
+#by Gianmarco Foroni aka hobbit-linux-42
+#tanks to the creators of BLIP
 from posixpath import sep
 import sys
 import logging
